@@ -1,0 +1,12 @@
+{
+  "name": "backend-print",
+  "version": "1.0.0",
+  "description": "Backend mínimo para enviar tickets ESC/POS a impresoras térmicas por TCP (puerto 9100)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
